@@ -1,0 +1,13 @@
+.UserOutput {
+	width: 50%;
+	margin-left: 25%;
+}
+.UserOutput .card {
+	border: 2px solid #ccc;
+	box-shadow: -3px 4px 10px rgba(000,000,000,.4);
+	padding: 20px 10px;
+	margin-top: 25px;
+}
+.UserOutput .userName {
+	font-weight: bold;
+}
